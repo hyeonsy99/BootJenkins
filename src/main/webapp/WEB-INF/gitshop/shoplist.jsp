@@ -11,11 +11,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>안녕하세요 Hello <br>젠킨스 설정 중입니다</h1>
-<h1>수나무</h1>
+<h1 class="alert alert-info">수나무</h1> <br>
+<h1 class="alert alert-info">우미몽</h1>
 <br>
-<img alt="" src="../1.jpg" style="width: 300px;">
-
 
 
 </body>
