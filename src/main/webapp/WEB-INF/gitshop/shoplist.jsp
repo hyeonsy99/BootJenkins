@@ -12,6 +12,7 @@
 </head>
 <body>
 <h1>안녕하세요 Hello <br>젠킨스 설정 중입니다</h1>
+<h1>전나 어려워요</h1>
 <br>
 <img alt="" src="../1.jpg" style="width: 300px;">
 <img alt="" src="/image/연예인사진/26.jpg">
