@@ -15,10 +15,8 @@
 <h1>전나 어려워요</h1>
 <br>
 <img alt="" src="../1.jpg" style="width: 300px;">
-<img alt="" src="/image/연예인사진/26.jpg">
-<img alt="" src="/image/연예인사진/27.jpg">
-<img alt="" src="/image/연예인사진/28.jpg">
-<img alt="" src="/image/연예인사진/25.jpg">
+<img alt="" src="../image/연예인사진/26.jpg">
+
 
 </body>
 </html>
